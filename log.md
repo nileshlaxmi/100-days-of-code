@@ -39,27 +39,27 @@
 
 ### Day 4: July 14, 2018 
 
-**Today's Progress:** 
+**Today's Progress:** Updated Product Landing Page.
 
-**Thoughts:**   
+**Thoughts:** Need to complete it. 
 
 **Link to work:**
 
-**Github:**
+**Github:** https://github.com/nileshlaxmi/freeCodeCamp/tree/master/responsive-web-design/product-landing-page
 
-**Codepen:**
+**Codepen:** https://codepen.io/NileshLaxmi/pen/RBWxLX
 
 ### Day 5: July 15, 2018 
 
-**Today's Progress:** 
+**Today's Progress:** Added react-login-form.
 
-**Thoughts:**   
+**Thoughts:** Need to complete Product Landing Page and Survey Form. 
 
 **Link to work:**
 
-**Github:**
+**Github:** https://github.com/nileshlaxmi/sample-projects
 
-**Codepen:**
+**Codepen:** None
 
 ### Day 7: July 16, 2018 
 

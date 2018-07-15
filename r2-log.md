@@ -14,8 +14,10 @@ Completed survey form. CSS needs to be updated.
 Started working product landing page.
 
 ### R2D4
+Updated product landing page.
 
 ### R2D5
+Added react-login-form.
 
 ### R2D6
 
